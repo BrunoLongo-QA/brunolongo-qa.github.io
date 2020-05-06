@@ -5,3 +5,5 @@
   <label for="lname">Last name:</label><br>
   <input type="text" id="lname" name="lname">
 </form>
+
+[Link To Issue](https://github.com/BrunoLongo-QA/brunolongo-qa.github.io/issues/new)
