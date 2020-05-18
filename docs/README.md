@@ -5,8 +5,8 @@ Fique a vontade para me mandar qualquer email com duvidas sobre quais quer sejam
 
 | Site | Versão |Link |
 |---|---|---|
-|Muambas do Bruno | N/A|[Link](./pages/muambas/main.md)|
-|NWar Imports & Exports|N/A|[Link](./pages/nwarImportsExports/main.md)|
-|CV Online| N/A |[Link](./pages/cvOnline/main.md)|
+|Muambas do Bruno | N/A|[Link](./pages/muambas/index.md)|
+|NWar Imports & Exports|N/A|[Link](./pages/nwarImportsExports/index.md)|
+|CV Online| N/A |[Link](./pages/cvOnline/index.md)|
 
 <!--[Pagina Principal](../../README.md)-->
