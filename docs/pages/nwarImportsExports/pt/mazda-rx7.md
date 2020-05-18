@@ -5,13 +5,14 @@ Primeiramente lançado em 1978 (Geração 1 - Serie 1) o modelo RX-7 da fabrican
 
 |Imagem|Modelo| Informações Técnicas (EN)
 |--|--|--|
-<img src="../../../img/nwarimports/forum/rx1.g1s1.jpg" width="250">| Mazda RX-7 Geração 1 Serie 1| [Link](https://www.automobile-catalog.com/model/mazda/rx-7_1gen.html)
+<img src="../../../img/nwarimports/forum//rx7/rx1.g1s1.jpg" width="250">| Mazda RX-7 Geração 1 Serie 1| [Link](https://www.automobile-catalog.com/model/mazda/rx-7_1gen.html)
 
 ### Hot Wheels Inspirados
 
 Muito famoso por si só o RX-7 teve ainda mais fama entre os modelos criados pela hot wheels após sua aparecição no filme [Velozes e Furiosos](https://pt.wikipedia.org/wiki/The_Fast_and_the_Furious_(franquia)) onde ficou em destaque com um dos protagonistas da serie Dominic Toretto ([Vin Diesel](https://pt.wikipedia.org/wiki/Vin_Diesel))
 
-
-
+|<!-- -->|<!-- -->|<!-- -->|
+|--|--|--|
+|<img src="../../../img/nwarimports/forum//rx7/hot1.jpg" width="250">|<img src="../../../img/nwarimports/forum//rx7/hot2.jpg" width="250">|<img src="../../../img/nwarimports/forum//rx7/hot3.jpg" width="250">|
 
 
