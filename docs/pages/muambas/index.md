@@ -17,12 +17,16 @@ Nesse Link você encontra um passo a passo de como se cadastrar em nosso git se 
 
 |Descrição|Link|
 |---|---|
-|Boardgame| |
-|Card Game| |
-|Miniaturas e Cenários de RPG| |
-|Livro| |
-|MIniaturas Marvel| |
-|Video Games| |
+|Boardgame|[Link](.boardgames/lista.md)|
+|Cardgame|[Em Construção]()|
+|Eletronicos|[Em Construção]()| 
+|Informatica|[Em Construção]()|
+|Livro|[Em Construção]()|
+|Magic|[Em Construção]()|
+|Miniaturas|[Em Construção]()|
+|RPG|[Em Construção]()|
+|Video Games|[Em Construção]()|
+|Wargame|[Link](./wargames/lista.md)|
 
 
 ## Parceiros

@@ -19,10 +19,10 @@ Depois existe o Catalogo Nwar, uma lista com todos os veiculos cadastrados a ven
 | | |Muscle|
 | | |Rod Hots|
 
-#### Garagem NWar Imports & Exports
+#### Catalogo NWar Imports & Exports
 
 Devido ao site ser hospedado gratuitamente o sistema de busca dele não pode ser implementado porem basta você clicar CTRL+F (Command+F no Mac OS) e pesquisar a informação que deseja na tabela abaixo, a mesma esta classificada por marca, modelo ou nome da miniatura. (Possivel que alguns tenham também coleção)
 
-|Imagem|Marca|Modelo|Classificação|Coleção|
-|--|--|--|--|--|
-| | | | | |
+|Imagem|Marca|Modelo|Classificação|Coleção|Preço R$|
+|--|--|--|--|--|--|
+| | | | | | |
