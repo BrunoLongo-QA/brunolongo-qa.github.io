@@ -43,11 +43,11 @@ Seu chip A12X Bionic é o mais poderoso que a Apple criou até agora, pois proce
 |Linha|iPad Pro|
 |Modelo|3ª Generación|
 |Versão|2018|
-|Modelo alfanumérico|A2014
+|Modelo alfanumérico|A2014|
 |Cor|Chumbo|
-|Capacidade|64 GB
-|Com conectividade celular|Sim
-|Tamanho da tela|12.9 "
+|Capacidade|64 GB|
+|Com conectividade celular|Sim|
+|Tamanho da tela|12.9 "|
 
 |<!---->|<!---->|
 |--|--|
