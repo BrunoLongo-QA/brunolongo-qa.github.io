@@ -1,9 +1,8 @@
-## Wargames
-
 <center>
 <img src="../../../img/muambas/wargames/wargame.jpg" width="400">
 </center>
 
+## Wargames
 
 Bem-vindo(a)
 

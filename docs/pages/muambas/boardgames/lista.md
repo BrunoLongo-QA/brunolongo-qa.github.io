@@ -1,7 +1,4 @@
-<center>
-
-## Boardgames
-</center>
+<center><h2>Boardgames</h></center>
 
 Bem-vindo(a).
 
