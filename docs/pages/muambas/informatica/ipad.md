@@ -18,7 +18,8 @@ OU
 Me mande uma mensagem pelo [Meu Facebook](https://www.facebook.com/bruno.p.longo) que conversamos.
 
 
-#### Ficha do Produto
+### Ficha do Produto
+
 
 ***Descrição***
 
@@ -36,8 +37,7 @@ Seus dados estarão sempre protegidos graças a seu sistema de autenticação fa
 
 Seu chip A12X Bionic é o mais poderoso que a Apple criou até agora, pois processa gráficos duas vezes mais rápido que os modelos anteriores, assim, você viverá experiências de realidade aumentada e desfrutará de jogos incríveis ao máximo. Por sua vez, possui Neural Engine, capaz de executar cinco bilhões de operações por segundo e levar o aprendizagem da máquina a outro nível.
 
-#### Características principais
-
+### Características principais
 
 |<!---->|<!---->|
 |--|--|
