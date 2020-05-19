@@ -1,4 +1,4 @@
-<center><h2>Boardgames</h></center>
+<center><h2>Boardgames</h2></center>
 
 Bem-vindo(a).
 
