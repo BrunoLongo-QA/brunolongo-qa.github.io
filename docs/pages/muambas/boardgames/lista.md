@@ -1,7 +1,6 @@
 <center>
 
 ## Boardgames
-
 </center>
 
 Bem-vindo(a).
