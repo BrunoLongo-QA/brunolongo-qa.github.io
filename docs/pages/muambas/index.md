@@ -17,7 +17,7 @@ Nesse Link você encontra um passo a passo de como se cadastrar em nosso git se 
 
 |Descrição|Link|
 |---|---|
-|Boardgame|[Link](.boardgames/lista.md)|
+|Boardgame|[Link](./boardgames/lista.md)|
 |Cardgame|[Em Construção]()|
 |Eletronicos|[Em Construção]()| 
 |Informatica|[Em Construção]()|
