@@ -23,7 +23,7 @@ Nesse Link você encontra um passo a passo de como se cadastrar em nosso git se 
 |Informatica|[Em Construção]()|
 |Livro|[Em Construção]()|
 |Magic|[Em Construção]()|
-|Miniaturas|[Em Construção]()|
+|Miniaturas|[Link](./miniaturas/lista.md)|
 |RPG|[Em Construção]()|
 |Video Games|[Em Construção]()|
 |Wargame|[Link](./wargames/lista.md)|

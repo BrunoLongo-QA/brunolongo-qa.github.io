@@ -1,8 +1,10 @@
-<center>
-<img src="../../../img/muambas/wargames/wargame.jpg" width="400">
-</center>
+<center><h2> Wargames</h2></center>
 
-## Wargames
+<center><img src="../../../img/muambas/wargames/wargame.jpg" width="350"></center>
+
+>
+
+[Voltar ao Catalogo de Produtos](../index.md)
 
 Bem-vindo(a)
 
