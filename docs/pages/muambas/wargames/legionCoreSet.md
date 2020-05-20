@@ -1,6 +1,6 @@
 ### Star Wars Legion Core Set
 
-[Voltar ao Catalogo de Produtos](./lista.md)
+[Voltar para a Lista de Produtos](./lista.md)
 
 Jogo completo com sleeve em todas as cartas. Para dois jogadores conta com o set do imperio e o set dos rebelds.
 

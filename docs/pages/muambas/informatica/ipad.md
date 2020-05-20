@@ -3,8 +3,8 @@
 <center><img src="../../../img/muambas/informatica/ipad/ipadcapa.jpg" width="350"></center>
 
 >
-[Voltar ao Catalogo de Produtos](./lista.md)
-> 
+
+[Voltar para a Lista de Produtos.](./lista.md)
 
 
 Produto comprado no Japão no final de 2018 inicio de 2019, aberto para conferencia e para passar pela alfandega sem taxa. Nota Fiscal Original do Japão.
@@ -50,6 +50,9 @@ Seu chip A12X Bionic é o mais poderoso que a Apple criou até agora, pois proce
 |Capacidade|64 GB|
 |Com conectividade celular|Sim|
 |Tamanho da tela|12.9 "|
+
+
+<h3>Imagens</h3>
 
 |<!---->|<!---->|
 |--|--|
