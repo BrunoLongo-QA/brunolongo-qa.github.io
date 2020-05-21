@@ -14,4 +14,4 @@ Abaixo você encontra fotos de todos os produtos relacionados a informatica que 
 
 |Imagem|Nome do Produto| Valor R$|
 |--|--|--|
-|<img src="../../../img/muambas/informatica/ipad/ipadcapa.jpg" width="150">|[Ipad Apple Pro 2018 3ª Generação 12.9" 64GB](./ipad.md)|R$ 7000,00|
+|<img src="../../../img/muambas/informatica/ipad/ipadcapa.jpg" width="150">|[Ipad Apple Pro 2018 3ª Generação 12.9" 64GB](./ipad.md)|***<span style="color: red;"> VENDIDO </span>***|

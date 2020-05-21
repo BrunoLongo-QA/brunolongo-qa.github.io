@@ -6,6 +6,9 @@
 
 [Voltar para a Lista de Produtos.](./lista.md)
 
+<img src="../../../img/muambas/vendido.jpg" width="250">
+
+***<span style="color: red;"> VENDIDO </span>***
 
 Produto comprado no Japão no final de 2018 inicio de 2019, aberto para conferencia e para passar pela alfandega sem taxa. Nota Fiscal Original do Japão.
 
