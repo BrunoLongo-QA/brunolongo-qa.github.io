@@ -16,7 +16,7 @@ Muito famoso por si só o RX-7 teve ainda mais fama entre os modelos criados pel
 |--|--|--|
 |<img src="../../../img/nwarimports/forum//rx7/hot1.jpg" width="250">|<img src="../../../img/nwarimports/forum//rx7/hot2.jpg" width="250">|<img src="../../../img/nwarimports/forum//rx7/hot3.jpg" width="250">|
 
-### Nossa Garagem
+### Nossa Coleção
 
 Abaixo alguns modelos que conseguimos durantes os anos.
 
