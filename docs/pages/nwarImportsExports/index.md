@@ -29,7 +29,7 @@ A tabela esta classificada por marca, modelo ou nome da miniatura.
 
 |Imagem|Descrição/Modelo|Coleção|Código|Qtd|Preço/Unid R$|
 |--|--|--|--|--|--|
-|<img src='../../img/nwarimports/garagem/49fordf1-ghd27-d7c5.jpg' width='125'>|[49 Ford F1]()|Rod Squad|GHD27-D7C5|2|R$15,00| 
+|<img src='../../img/nwarimports/garagem/49fordf1-ghd27-d7c5.jpg' width='125'>|[49 Ford F1](./pt/estoque/49fordf1-ghd27-d7c5.md)|Rod Squad|GHD27-D7C5|2|R$15,00| 
  |<img src='../../img/nwarimports/garagem/69chevelle-ghf25-d7c5.jpg' width='125'>|[69 Chevelle]()|Tooned|GHF25-D7C5|1|R$15,00| 
  |<img src='../../img/nwarimports/garagem/70volkswagenbajabug-ghb57-d7c5.jpg' width='125'>|[70 Volkswagen Baja Bug]()|Tooned|GHB57-D7C5|2|R$15,00| 
  |<img src='../../img/nwarimports/garagem/88hondacr-x-ghc10-d7c5.jpg' width='125'>|[88 Honda CR-X]()|Honda|GHC10-D7C5|1|R$15,00| 
